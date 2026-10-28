@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quiosque-ponto-de-encontro-toninhas-ubatuba.vercel.app/sitemap.xml
